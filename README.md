@@ -1,2 +1,2 @@
 # contador_clics
-aplicacion realizada con react HTML y CSS JS.
+Aplicacion realizada con HTML5, CSS3 y REACTJS
